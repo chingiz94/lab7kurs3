@@ -45,6 +45,8 @@
       </li>
       <li><a href='index.php?id=gbook'>Гостевая книга</a>
       </li>
+      <li><a href='users.php'>Пользователи (ООП)</a>
+      </li>
     </ul>
     <!-- Навигация -->
   </div>
